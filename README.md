@@ -12,7 +12,7 @@ Google Chrome / Firefoxextension that shows you a new definition every time you 
 1. Click "Unload Packed Extension..." and select the cloned repo folder
 1. Done! :tada: :balloon: :confetti_ball: :tada: :balloon: :confetti_ball:
 
-##Installation on Firefox
+## Installation on Firefox
 1. Clone this repo
 1. Navigate to about:debugging in Firefox
 1. Click "Load Temporary Add-on" button and select manifest.json or any other file in the project
